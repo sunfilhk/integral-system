@@ -1,0 +1,19 @@
+
+.inexamine {
+	    padding: 20px;
+}
+.tab {
+		font-size: 15px;
+		color: #444444;
+}
+.tab view {
+		margin-top: 4px;
+}
+.btn view {
+		margin: 14px 0;
+}
+.btn button {
+		height: 40px;
+		font-size: 16px;
+}
+

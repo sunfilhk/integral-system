@@ -1,0 +1,28 @@
+settings:
+  application:
+    env: dev
+    envmsg: cxcbet
+    host: 0.0.0.0
+    isinit: false
+    jwtsecret: 123abc
+    logpath: temp/logs/log.log
+    name: zAdmin
+    port: 8001
+    readtimeout: 1
+    writertimeout: 2
+    runtimerootpath: runtime/
+    exportsavepath: export/
+    customerratio: 0.0167
+    salesmanratio: 0.2
+  admindb:
+    database: test
+    dbtype: mysql
+    host: 127.0.0.1
+    password: 123456
+    port: 3306
+    username: root
+  redis:
+    addr: 127.0.0.1:6379
+    db: 0
+    password: password
+    readtimeout: 50

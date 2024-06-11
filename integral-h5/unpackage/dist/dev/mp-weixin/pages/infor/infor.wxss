@@ -1,0 +1,28 @@
+
+.infor {
+	padding: 20px;
+}
+.tab {
+		font-size: 15px;
+		color: #444444;
+}
+.tab view {
+		margin-top: 4px;
+}
+.tab .status .a {
+		color: #00bc00;
+}
+.tab .status .b {
+		color: #007AFF;
+}
+.tab .status .c {
+		color: rgb(255, 80, 80);
+}
+.btn view {
+		margin: 14px 0;
+}
+.btn button {
+		height: 40px;
+		font-size: 16px;
+}
+

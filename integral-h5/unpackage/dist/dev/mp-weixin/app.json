@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/customer/customer",
+    "pages/mine/mine",
+    "pages/login/login",
+    "pages/incustomer/incustomer",
+    "pages/investment/investment",
+    "pages/ininvestment/ininvestment",
+    "pages/examines/examines",
+    "pages/record/record",
+    "pages/inexamine/inexamine",
+    "pages/infor/infor",
+    "pages/pass/pass",
+    "pages/salesman/salesman",
+    "pages/level/level",
+    "pages/audituser/audituser",
+    "pages/subordinate/subordinate"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "中悦",
+    "navigationBarBackgroundColor": "#304156",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#444444",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/shouye.png",
+        "selectedIconPath": "static/shouyeHL.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/customer/customer",
+        "iconPath": "static/yewu.png",
+        "selectedIconPath": "static/yewuHL.png",
+        "text": "业务"
+      },
+      {
+        "pagePath": "pages/examines/examines",
+        "iconPath": "static/shenhe.png",
+        "selectedIconPath": "static/shenheHL.png",
+        "text": "审核"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/wode.png",
+        "selectedIconPath": "static/wodeHL.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

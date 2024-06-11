@@ -1,0 +1,12 @@
+
+.pass {
+	padding: 20px 20px 20px 26px;
+}
+.xh {
+		position: absolute;
+		top: 8px;
+		left: -10px;
+		color: red;
+		font-size: 18px;
+}
+

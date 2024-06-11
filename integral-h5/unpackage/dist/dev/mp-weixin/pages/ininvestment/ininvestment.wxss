@@ -1,0 +1,23 @@
+
+.ininvestment {
+		padding: 20px 20px 20px 26px;
+}
+.ininvestment button {
+		height: 40px;
+		font-size: 16px;
+}
+.xh {
+		position: absolute;
+		top: 8px;
+		left: -10px;
+		color: red;
+		font-size: 18px;
+}
+.sexs {
+		height: 36px;
+		line-height: 36px;
+		border: 1px solid #e5e5e5;
+		border-radius: 6px;
+		padding-left: 10px;
+}
+
